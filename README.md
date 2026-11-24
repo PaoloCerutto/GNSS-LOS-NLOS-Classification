@@ -107,5 +107,3 @@ This README describes the project objectives and planned methodology. Implementa
 ## Author
 
 **Paolo Cerutto**
-
-MALIS – Advanced Project
